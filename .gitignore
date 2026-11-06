@@ -1,15 +1,19 @@
-/data/
+
 
 /dashboard
 
-/asset/sample layout for portfolio.png
-/asset/data_flow.html
-/asset/pbi_page2_wireframe.html
+/asset/*.html
+/asset/*.json
+/asset/report layout example.jpg
+/asset/report layout example 1.png
 
-/code
-
+/code/EER.mwb
+/code/EER.mwb.beforefix
 
 # CLAUDE
 instruction.md
 CLAUDE.md
+
+fabric_package/
+fabric_package.zip
 
